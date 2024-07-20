@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+/* navbar */
+
+
+.nav-item .nav-link {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 1px;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px black;
+}
+
+.nav-item .nav-link:hover {
+    color: #ff2828;
+} 
+
+
+
+
+/* container hr */
+/* .container hr{
+    background-color: #ffa500;
+    height: 10px;
+    width: 80px;
+    border-radius: 5px; 
+} */
+
+/* products */
+.container h1 {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    text-shadow: 0px 1px 1px black;
+    margin-bottom: 30px;
+}
+
+
+.card {
+    height: 100%;
+}
+
+.row .card {
+    border-radius: 5px;
+    border: none;
+    box-shadow: rgba(148, 98, 98, 0.1) 0px 4px 12px;
+}
+
+.row .card img {
+    padding: 5px 5px 5px 5px;
+}
+
+.card-body {
+    font-size: 12px;
+} 
+
+
+
+
+/* About us image */
+#img {
+    width: 100%;
+    height: 400px;
+}
+
+
+/* footer */
+
+
+.icons {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.f-logo {
+    color: #ff2828;
+    font-weight: bold;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.copyright {
+    font-size: 12px;
+}
